@@ -1,3 +1,7 @@
+# Introduction
+
+This is my project for the 'Computer Vision' course, which uses a vision transformer to solve jigsaw puzzles. I build the whole pipeline and utilize Jigsaw-ViT while making some modifications to the architecture.
+
 # Report
 
 The report is `doc/CV_Project.pdf`.
