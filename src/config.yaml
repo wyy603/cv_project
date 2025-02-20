@@ -1,0 +1,13 @@
+dataset: imagenet1k_0
+#dataset: DIV2K
+patch_size: 64
+patch_num: 5
+
+train_batch_size: 64
+valid_batch_size: 64
+num_workers: 8
+
+lr: 0.0001
+weight_decay: 0
+num_epoch: 100
+save_interval: 1
